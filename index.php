@@ -70,9 +70,11 @@
           </div>
           <!-- End Mobile -->
         </div>
-        <?php
-            @include("directorio/commons/footer.php");
-         ?>
+        <div class="row wine-color-bg">
+          <?php
+              @include("directorio/commons/footer.php");
+           ?>
+        </div>
     </div>
 </body>
 </html>
