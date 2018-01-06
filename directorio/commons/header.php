@@ -18,15 +18,15 @@
 </div>
 <!-- End section web -->
 <!-- Init section mobile -->
-<div id="mobile">
-    <div class="col-sm-12 center-block">
-        07031 / 498465 (Mo. bis Fr. von 8 bis 20 Uhr)
+<div id="mobile" class="col-sm-12 center-block">
+    <b>07031 / 498465 (Mo. bis Fr. von 8 bis 20 Uhr)</b>
+</div>
+<div id="mobile" class="row center-block">
+  <div class="col-sm-12 wine-color-bg font-white-bold">
+    <div>
+      <img src="img/Pikto_Kontakt.png" width="auto" height="auto" style="padding-right:5px;">
+      CALL BACK - Service - Wir rufen Sie an!
     </div>
-    <div class="col-sm-12 center-block wine-color-bg font-white-bold">
-      <div>
-        <img src="img/Pikto_Kontakt.png" width="auto" height="auto" style="padding-right:5px;">
-        CALL BACK - Service - Wir rufen Sie an!
-      </div>
-    </div>
+  </div>
 </div>
 <!-- End section mobile -->
