@@ -1,0 +1,82 @@
+@import url(http://fonts.googleapis.com/css?family=Arial%20Narrow:400,700,400italic,700italic);
+
+body{
+  background-color: #e4e7ea;
+  font-family: 'Arial Narrow';
+  font-style: normal;
+  font-weight: 400;
+}
+
+.container{
+  background-color: #fff;
+}
+
+.wine-color-bg{
+  background-color: #8f1e1c; //vinotinto
+}
+
+.blue-color-bg{
+  background-color: #8f1e1c; //azul
+}
+
+.font-white{
+  color: #fff;
+}
+
+.font-white-bold{
+  color: #fff;
+  font-weight: 700;
+  text-align: right;
+}
+
+.pull-right {
+  float: right !important;
+}
+.pull-left {
+  float: left !important;
+}
+
+@media (max-width: 576px) {
+  #web{
+    display: none;
+  }
+  #mobile{
+    display: block;
+  }
+}
+
+@media (min-width: 576px) {
+  #web{
+    display: none;
+  }
+  #mobile{
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  #web{
+    display: block;
+  }
+  #mobile{
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  #web{
+    display: block;
+  }
+  #mobile{
+    display: none;
+  }
+}
+
+@media (min-width: 1200px) {
+  #web{
+    display: block;
+  }
+  #mobile{
+    display: none;
+  }
+}
