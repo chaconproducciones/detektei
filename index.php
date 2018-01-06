@@ -20,13 +20,12 @@
 <body>
     <div id="app" class="container">
               <div class="row">
-
-
-                
                 <div id="web" class="col-lg-3 col-md-3 col-sm-12">
-                  <div class="row">
-                      <img class="img-fluid" src="img/logo_neu_web.png" />
-                  </div>
+                  <figure class="detektei">
+                      <div class="container-detektei">
+                        <img id='detektei' src='img/logo_neu_web.png'/>
+                      </div>
+                  </figure>
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-12">
                   <div class="row">
@@ -46,23 +45,14 @@
                       </div>
                   </div>
                 </div>
-                <div id="mobile" class="col-lg-3 col-md-3 col-sm-12">
-                  <div class="row">
-                      <img class="img-fluid" src="img/logo_neu_web.png" />
-                  </div>
-                </div>
-                
-              </div>
-              <div class="sidebar col-lg-3 col-md-3">
-                      <div class="formulario">
-                        <input type="text"/>
-
+                <div id="mobile" class="col-sm-12">
+                  <figure class="detektei">
+                      <div class="container-detektei">
+                        <img id='detektei' src='img/logo_neu_web.png'/>
                       </div>
-              
-
-              
+                  </figure>
+                </div>
               </div>
     </div>
-    
 </body>
 </html>
