@@ -66,33 +66,28 @@
                           </div>
                           </tr>
                         </table>
+
+                           
+            
+                
                     </div>
+
                   </form>
+                      
                 </div>
-                <img class="puzzle" src='../../img/puzzle.jpg'/>
-                <div class="tablasidebar">
-                  <table>
-                    <tr>
-                    <p class="text-sidebar-bottom">Die Detektei Larsen: Verbände / Zertifkate</p>
-                    </tr>
-                    <tr>
-                      <td>
-                      <img class="banner" src='../../img/bid-Logo Zertifizierung_animiert.png'/>
-
-                      </td>
-                      <td><img class="banner" src='../../img/IKD_Logo.png'/> </td>
-
-                    </tr>
-                    <tr>
-                    <td><img class="banner" src='../../img/WorldAssociationofDetectivesfooter.png'/></td>
-                      <td><img class="banner" src='../../img/ODV_Logo-rgb.png'/></td>
-
-                    </tr>
-                  </table>
-                </div>
+                
+              
+                <div class="menu-privat"></div>
+                     
+                     <div class="boton-wirscraf"></div>
+                    
+                     <div class="videogr"></div>        
+                          
+                
             </div>
-           
+             
           </div>
+          
           </div>
           
           <div  id="web" class="col-lg-9 col-md-9 col-sm-12 pull-right">
@@ -137,10 +132,10 @@
                        <div class="fila-centro-blanco"></div>
                       </tr>
                       </table>
-                      <table>
-                        <td style="background-color: #8f1e1c; color:white;">
-                        Personenüberwachung
-liefert Beweise
+                      <table class="table-pages"><tr>
+                      <td width="270" style="background-color: #8f1e1c; color:white;">
+                                                <p class="titulos-pages">Personenüberwachung
+liefert Beweise</p>
 Personen, Räume und privates Eigentum beobachten
 und überwachen – das ist das Kerngeschäft unserer
 Detektei.
@@ -161,18 +156,15 @@ der beobachteten Person. Wir sichern für Sie gerichtsverwertbare
 Beweise. Selbstverständlich stehen Ihnen
 und Ihren Anwälten unsere Mitarbeiter, die die Personenüberwachung
 durchführen, auch als Zeugen vor
-Gericht zur Verfügung.
-                        </td>
-
+Gericht zur Verfügung.</td>
                         <td>
-                          <tr>
-                          <p style="font-weight:bold;">Überwachung mit GPS</p>
+                        <p  class="titulos-pages">Überwachung mit GPS</p>
 Bei der Fahrzeug- und Warenüberwachung setzen wir modernste Hilfsmittel, wie die satellitengestützte Positionsbestimmung
 (GPS-Technik) ein. Damit können wir Bewegungen von Fahrzeugen bis auf wenige Meter genau verfolgen und aufzeichnen. Das
 hat für Sie den großen Vorteil, dass Sie so den Aufenthaltsort der gesuchten Person erfahren.
-                          </tr>
-                          <tr>
-                          <p style="font-weight:bold;">Überwachung mit Videotechnik</p>
+
+
+<p  class="titulos-pages">Überwachung mit Videotechnik</p>
 Miniaturkamera an der Wand montiert Zur Überwachung kann auch Videotechnik eingesetzt werden. Aus Standfahrzeugen heraus
 oder mit fest installierten Kameras überwachen wir Grundstücke, Wohnungen, Firmen oder PKWs. Mit Miniaturkameras führen
 wir verdeckte Videobeobachtungen durch. Unsere Geräte sind so unauffällig, dass sie kaum bemerkt werden können. Dadurch
@@ -181,14 +173,27 @@ Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie
 schützen, stellen wir speziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent
 auch in allen Fragen, die Sie zum Kauf einer Überwachungsanlage haben.
 <br/>
-Bitte beachten Sie hierzu die rechtlichen Voraussetzungen, die Sie auf unserer Seite Videoüberwachungen nachlesen können
-                          </tr>
-                          <tr></tr>
-                          <tr></tr>
+<p>Bitte beachten Sie hierzu die rechtlichen Voraussetzungen, die Sie auf unserer Seite Videoüberwachungen nachlesen können</p>
+
+<p  class="titulos-pages">offene Videoüberwachung im Innen- und Außenbereich</p>
+Straftaten schon im Vorfeld zu verhindern. Das ist unser Ziel bei der offenen Videoüberwachung. Die für jedermann sichtbar installierten
+Kameras haben eine abschreckende Wirkung. Dadurch erhöhen Sie Ihre eigene Sicherheit und schützen wirkungsvoll Ihr
+Eigentum.
+
+<p  class="titulos-pages">verdeckte Videoüberwachung im Innen- und Außenbereich</p>
+Beim Einsatz verdeckter Videokameras sind strenge rechtliche Regeln einzuhalten, sonst machen Sie sich selbst strafbar.
+Heimlich angefertigte Videoaufnahmen sind ein Eingriff in das durch Artikel 2 Absatz 1 Grundgesetz geschützte allgemeine Persönlichkeitsrecht.
+Durch dieses Recht werden Arbeitnehmer vor einer lückenlosen technischen Überwachung am Arbeitsplatz geschützt.
+<br/>In jedem Einzelfall muss deshalb das allgemeine Persönlichkeitsrecht des Arbeitnehmers gegen das wirtschaftliche Interesse des
+Arbeitgebers sorgfältig abgewogen werden.
 
 
-                        </td>
 
+
+
+</td>
+</tr>
+                        
                       </table>
               
               </div>

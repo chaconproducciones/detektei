@@ -155,6 +155,7 @@
         width: 100%;
         height: 100%;
       }
+    
 
       .sidebar {
         background-color: #0B3D60;
@@ -259,7 +260,7 @@
 
       .fila-centro-blanco {
         width: 100%;
-        height: 5%;
+        height: 3%;
         background-color: white;
       }
 
@@ -341,4 +342,40 @@
         #mobile {
           display: none;
         }
+      }
+
+      .table-pages{
+
+        font-size: 13px;
+
+      }
+      .titulos-pages{
+        font-size: 22px;
+        font-weight: bold;
+      }
+
+      .menu-privat{
+        background-color: #8f1e1c;
+        width: 100%;
+        height: 250px;
+        float: left;
+        margin-top: 40px;  
+
+      }
+      .boton-wirscraf{
+        background-color: #220568;
+        width: 100%;
+        height: 55px;
+        float: left;
+        margin-top: 10px;  
+
+      }
+
+      .videogr{
+        background-color: #555358;
+        width: 100%;
+        height: 55px;
+        float: left;
+        margin-top: 10px;  
+
       }
