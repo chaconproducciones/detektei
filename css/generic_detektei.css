@@ -155,10 +155,50 @@ figure.detektei {
 
 .banner{
   width: 100%;
-  height: 70%;
+  height: 60%;
   padding: 20px;
 }
+.content-slider1{
+  width: 100%;
+  height: 100%;
+  background-color: #a4a4a4;
+}
+.slider1{
+  width: 100%;
+  height: 65%;
+  background-color: rgb(44, 131, 194);
+  
+}
+.banner-slider{
+width: 100%;
+height: 100%;
+}
+.slider-footer1{
+  width: 100%;
+  height: 62%;
+  background-color: #0B3D60;
+  
+}
+.banner-slider-footer{
+width: 100%;
+height: 0;
+background-color: #ECECEC;
 
+}
+.tabla-slider{
+  table-layout:fixed;
+  width: 15%;
+  height: 250px;
+}
+.tabla-slider-centro{
+  table-layout:fixed;
+  width: 35%;
+  font-size:12px;
+}
+.fila-centro{
+  width: 100%;
+  height: 30%;
+}
 .input-formulario{
   padding: 5px;
   margin: auto;

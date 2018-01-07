@@ -5,7 +5,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
     <!-- CSRF Token -->
     <meta name="csrf-token" content="">
 
@@ -87,12 +91,81 @@
                   </table>
                 </div>
             </div>
+           
           </div>
           </div>
-          </div>
-          <div  id="web" class="col-lg-9 col-md-9 col-sm-12">
+          
+          <div  id="web" class="col-lg-9 col-md-9 col-sm-12 pull-right">
             <!-- Init Content Web -->
+              <div class="content-slider1">
+                  <table>
+                      <tr>
+                          <div class="slider1">
+                          <div id="demo" class="carousel slide" data-ride="carousel">
+
+                          <!-- Indicators -->
+                          <ul class="carousel-indicators">
+                            <li data-target="#demo" data-slide-to="0" class="active"></li>
+                            <li data-target="#demo" data-slide-to="1"></li>
+                            <li data-target="#demo" data-slide-to="2"></li>
+                          </ul>
+                          
+                          <!-- The slideshow -->
+                          <div class="carousel-inner">
+                            <div class="carousel-item active">
+                              <img src="img/empre0.png" alt="Los Angeles" width="1100" height="500">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="img/empre0.png" alt="Chicago" width="1100" height="500">
+                            </div>
+                            <div class="carousel-item">
+                              <img src="img/empre0.png" alt="New York" width="1100" height="500">
+                            </div>
+                          </div>
+                          
+                          <!-- Left and right controls -->
+                          <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                            <span class="carousel-control-prev-icon"></span>
+                          </a>
+                          <a class="carousel-control-next" href="#demo" data-slide="next">
+                            <span class="carousel-control-next-icon"></span>
+                          </a>
+                        </div>
+                          </div>
+                      </tr>
+                      <tr class="fila-centro">
+                        <center style="font-size:72px;">Videoüberwachung</center>
+                      </tr>
+                      </table>
+                      <table class="banner-slider-footer">
+                      <tr>
+                        <td  class="tabla-slider" ><img class="banner-slider" src='img/camera.png'/></td>
+                        <td class="tabla-slider-centro" >offene Videoüberwachung<br/>im Innen- und Außenbereich
+Straftaten schon im Vorfeld zu verhindern. Das ist unser Ziel bei
+der offenen Videoüberwachung. Die für jedermann sichtbar installierten
+Kameras haben eine abschreckende Wirkung. Dadurch
+erhöhen Sie Ihre eigene Sicherheit und schützen wirkungsvoll Ihr
+Eigentum.</td>
+                        <td class="tabla-slider-centro" >verdeckte Videoüberwachung<br/>im gewerblichen und privaten Bereich
+Beim Einsatz verdeckter Videokameras sind strenge rechtliche
+Regeln einzuhalten, sonst machen Sie sich selbst strafbar.
+Heimlich angefertigte Videoaufnahmen sind ein Eingriff in das
+durch Artikel 2 Absatz 1 Grundgesetz geschützte allgemeine Persönlichkeitsrecht.
+Durch dieses Recht werden Arbeitnehmer vor
+einer lückenlosen technischen Überwachung am Arbeitsplatz geschützt.
+In jedem Einzelfall muss deshalb das allgemeine Persönlichkeitsrecht
+des Arbeitnehmers gegen das wirtschaftliche Interesse des
+Arbeitgebers sorgfältig abgewogen werden.</td>
+                        <td class="tabla-slider" ><img class="banner-slider" src='img/people.png'/></td>
+                      </tr>  
+                  </table>
+              
+              </div>
+
+
+
             <!-- End Content Web -->
+          </div>
           </div>
           <!-- End Web -->
           <!-- Init Mobile -->
