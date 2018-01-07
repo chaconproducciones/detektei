@@ -183,6 +183,37 @@
         margin: auto;
       }
 
+      .tittle-mobile-sidebar{
+        font-family: 'Arial Narrow';
+        font-size: 24px;
+        color: white;
+        padding: 5px;
+       }
+
+       .tittle-mobile {
+         font-family: 'Arial Narrow';
+         font-size: 18px;
+         color: black;
+         padding: 5px;
+         text-align: left;
+         font-weight: 700;
+       }
+
+       .text-mobile {
+         font-family: 'Arial Narrow';
+         font-size: 12px;
+         color: black;
+         padding: 5px;
+         text-align: justify;
+       }
+
+       .tittle-black-sidebar{
+         font-family: 'Arial Narrow';
+         font-size: 24px;
+         color: black;
+         padding: 5px;
+        }
+
       .text-sidebar {
         font-family: 'Arial Narrow';
         font-size: 12px;
