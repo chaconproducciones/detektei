@@ -50,45 +50,46 @@
                   <p class="text-sidebar">Name</p>
                   <input class="input-formulario" type="text" />
                   <p class="text-sidebar">E-Mail</p>
-                  <div>
-                    <input class="input-formulario" type="text" />
-                    <p class="text-sidebar">Nachricht</p>
-                    <table>
-                      <tr>
-                        <div class=" col-lg-3 col-md-3 col-sm-12">
-                          <td>
-                            <input class="input-formulario2" type="text" />
-                            <p class="text-sidebar">Zeitfenster für Rückruf</p>
-                          </td>
-                          <td>
-                            <div id="circulo">Senden</div>
-                          </td>
-                        </div>
-                      </tr>
-                    </table>
+                  <input class="input-formulario" type="text" />
+                  <p class="text-sidebar">Nachricht</p>
+                  <div class="row" style="padding-left:7px;">
+                      <div class="col-lg-7 col-md-7 col-sm-12">
+                          <input class="input-formulario2" type="text" />
+                          <p class="text-sidebar">Zeitfenster für Rückruf</p>
+                      </div>
+                      <div class="col-lg-5 col-md-5 col-sm-12">
+                          <div id="circulo">Senden</div>
+                      </div>
                   </div>
                 </form>
               </div>
               <img class="puzzle" src='img/puzzle.jpg' />
               <div class="tablasidebar">
-                <table>
-                  <tr>
-                    <p class="text-sidebar-bottom">Die Detektei Larsen: Verbände / Zertifkate</p>
-                  </tr>
-                  <tr>
-                    <td>
-                      <img class="banner" src='img/bid-Logo Zertifizierung_animiert.png' />
-                    </td>
-                    <td><img class="banner" src='img/IKD_Logo.png' /> </td>
-                  </tr>
-                  <tr>
-                    <td><img class="banner" src='img/WorldAssociationofDetectivesfooter.png' /></td>
-                    <td><img class="banner" src='img/ODV_Logo-rgb.png' /></td>
-                  </tr>
-                </table>
+                <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="row">
+                      <div class="text-sidebar-bottom">Die Detektei Larsen: Verbände / Zertifkate</div>
+                          <div class="col-lg-6 col-md-6 col-sm-12">
+                            <img class="banner" src='img/bid-Logo Zertifizierung_animiert.png' />
+                          </div>
+                          <div class="col-lg-6 col-md-6 col-sm-12">
+                            <img class="banner" src='img/IKD_Logo.png' /> </td>
+                          </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="row">
+                      <div class="col-lg-6 col-md-6 col-sm-12">
+                        <img class="banner" src='img/WorldAssociationofDetectivesfooter.png' />
+                      </div>
+                      <div class="col-lg-6 col-md-6 col-sm-12">
+                        <img class="banner" src='img/ODV_Logo-rgb.png' /></td>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-
           </div>
         </div>
         <div id="web" class="col-lg-9 col-md-9 col-sm-12">
@@ -99,12 +100,12 @@
                 <!-- The slideshow -->
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="img/empre0.png" alt="Detektei" width="100%" height="632">
+                    <img src="img/empre0.png" alt="Detektei" width="100%" height="630">
                   </div>
                   <div class="carousel-item">
-                    <img src="img/empre0.png" alt="Detektei" width="100%" height="632">
+                    <img src="img/empre0.png" alt="Detektei" width="100%" height="630">
                     <div class="carousel-caption">
-                      <div class="row">
+                      <div class="row" style="margin-bottom:-39px;">
                         <div class="col-lg-6 col-md-6 col-sm-6 wine-color-bg">
                           <div class="tittle-slider-caption">Wirtschaft</div>
                           <div class="text-slider-caption">
@@ -135,9 +136,9 @@
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img src="img/empre0.png" alt="Detektei" width="100%" height="632">
+                    <img src="img/empre0.png" alt="Detektei" width="100%" height="630">
                     <div class="carousel-caption">
-                      <div class="row">
+                      <div class="row" style="margin-bottom:-37px;">
                         <div class="col-lg-6 col-md-6 col-sm-6 wine-color-bg">
                           <div class="tittle-slider-caption">Wirtschaft</div>
                           <div class="text-slider-caption">
