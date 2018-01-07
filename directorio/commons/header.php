@@ -4,7 +4,7 @@
 <div id="web" class="col-lg-9 col-md-9 col-sm-12">
   <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12">
-        <div class="pull-left">
+        <div class="pull-left" style="padding-left:5px;">
           Persönliche Beratung: 07031 / 498465 (Mo. bis Fr. von 8 bis 20 Uhr)
         </div>
       </div>
