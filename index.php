@@ -27,7 +27,7 @@
     <div class="row">
         <!-- Init Header -->
         <?php
-            @include("directorio/commons/header.php");
+            @include("header.php");
          ?>
         <!-- End Header -->
         <!-- Init Web -->
@@ -274,7 +274,7 @@
     <!-- Init Footer -->
     <div class="row wine-color-bg">
       <?php
-              @include("directorio/commons/footer.php");
+              @include("footer.php");
            ?>
     </div>
     <!-- End Footer -->
