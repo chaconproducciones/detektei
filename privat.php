@@ -202,7 +202,7 @@ Arbeitgebers sorgfältig abgewogen werden.</p></div>
     <div id="mobile">
       <!-- Init Content Mobile -->
       <div class="row wine-color-bg" style="padding: 10px;">
-        <div class="tittle-mobile" style="color:#fff;">Personenüberwachung liefert Beweise</div>
+        <div class="tittle-mobile" style="color:#fff;">Personenüberwachung<br/>liefert Beweise</div>
         <div class="text-mobile" style="color:#fff;">
           Personen, Räume und privates Eigentum beobachten und überwachen – das ist das Kerngeschäft unserer Detektei.
         </div>
@@ -226,13 +226,13 @@ Arbeitgebers sorgfältig abgewogen werden.</p></div>
           Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie Ihr Firmengelände, Lagerräume oder Ihr Wohnhaus schützen, stellen wir spe- ziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent auch in allen Fragen, die Sie zum Kauf einer Überwachungsanla- ge haben.
         </div>
       </div>
-      <div class="row blue-color-bg tittle-mobile-sidebar">
-          Wirtschaft ▶
-      </div>
-      <div class="row wine-color-bg tittle-mobile-sidebar">
+      <div class="row wine-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
         Privat ▶
       </div>
-      <div class="row bg-dark-gray tittle-black-sidebar">
+      <div class="row blue-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
+          Wirtschaft ▶
+      </div>
+      <div class="row bg-dark-gray tittle-black-sidebar" style="margin-bottom:7px;">
         Videoüberwachung ▶
       </div>
       <!-- End Content Mobile -->

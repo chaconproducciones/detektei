@@ -233,13 +233,13 @@
     </div>
     <div id="mobile">
       <!-- Init Content Mobile -->
-      <div class="row blue-color-bg tittle-mobile-sidebar">
+      <div class="row blue-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
           Wirtschaft ▶
       </div>
-      <div class="row wine-color-bg tittle-mobile-sidebar">
+      <div class="row wine-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
         Privat ▶
       </div>
-      <div class="row bg-dark-gray tittle-black-sidebar">
+      <div class="row bg-dark-gray tittle-black-sidebar" style="margin-bottom:7px;">
         Videoüberwachung ▶
       </div>
       <div class="row" style="padding: 10px;">
@@ -265,7 +265,7 @@
           </div>
         </div>
       </div>
-      <div class="row bg-dark-gray">
+      <div class="row bg-dark-gray" style="margin-bottom:7px;">
         <div class="col-sm-6">
           <img class="banner" src='img/WorldAssociationofDetectivesfooter.png' />
         </div>
