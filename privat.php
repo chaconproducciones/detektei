@@ -78,6 +78,11 @@
                   </div>
                 </div>
               </div>
+              <div>
+                <div class="blue-color-bg">
+                  <div class="tittle-slider-caption">Wirtschaft ▶</div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
