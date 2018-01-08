@@ -151,7 +151,7 @@
         border-width: medium;
         border-style: solid;
         line-height: 30px;
-        
+
       }
 
       .puzzle {
@@ -161,7 +161,7 @@
 
 
       .sidebar {
-        background-color: #0B3D60;
+        background-color: #2a3d5c;
         padding: 5px;
         display: block;
         float: left;
@@ -171,7 +171,7 @@
       }
 
       .content-sidebar {
-        background-color: #ECECEC;
+        background-color: #eceded;
         height: 100%;
         width: 100%;
         padding: 20px;
@@ -323,7 +323,7 @@
         border-radius: 4px;
         border-style: solid;
         border-color: white;
-        
+
       }
 
       .input-formulario2 {
@@ -399,7 +399,7 @@
         margin-top: 40px;
         margin-top: 40px;
         color:white;
-        line-height: 15px; 
+        line-height: 15px;
 
 
       }
@@ -409,7 +409,7 @@
         height: 55px;
         float: left;
         margin-top: 10px;
-        margin-top: 10px;  
+        margin-top: 10px;
         color: white;
         text-align: center;
         vertical-align:middle;
@@ -424,7 +424,7 @@
         height: 55px;
         float: left;
         margin-top: 10px;
-        margin-top: 10px;  
+        margin-top: 10px;
         color:black;
         text-align: center;
         vertical-align:middle;

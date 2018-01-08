@@ -66,24 +66,22 @@
               <div>
                 &nbsp;
               </div>
-              <div>
-                <div class="wine-color-bg">
-                  <div class="tittle-slider-caption" style="font-size:28px;">Privat</div>
-                  <div class="text-slider-caption">
-                    Partnerschaftskon ikte<br/>
-                    <span style="color:#fff;">Personenüberwachung ►</span><br/>
-                    Personenschutz Recherchen<br/>
-                    Stalking<br/>
-                    Analysen und Gutachten<br/>
-                  </div>
+              <div class="wine-color-bg">
+                <div class="tittle-slider-caption" style="font-size:28px;">Privat</div>
+                <div class="text-slider-caption">
+                  Partnerschaftskon ikte<br/>
+                  <span style="color:#fff;">Personenüberwachung ►</span><br/>
+                  Personenschutz Recherchen<br/>
+                  Stalking<br/>
+                  Analysen und Gutachten<br/>
                 </div>
               </div>
-              <div>
+              <div style="padding-top:15px;">
                 <div class="blue-color-bg">
                   <div class="tittle-slider-caption" style="font-size:28px;">Wirtschaft ▶</div>
                 </div>
               </div>
-              <div>
+              <div style="padding-top:15px;">
                 <div class="bg-dark-gray">
                   <div class="tittle-slider-caption" style="font-size:24px;color:#000;">Videoüberwachung ▶</div>
                 </div>
@@ -151,9 +149,7 @@ Gericht zur Verfügung.
             </div>
             <div class="col-lg-8 col-md-8 col-sm-12">
               <div class="row">
-                <div class="col-lg-1 col-md-1 col-sm-12">
-                </div>
-                <div class="col-lg-10 col-md-10 col-sm-12" style="margin-left:-10px;margin-right:-10px;">
+                <div class="col-lg-12 col-md-12 col-sm-12" style="padding-left:30px;padding-right:30px;">
                   <p  class="titulos-pages">Überwachung mit GPS</p>
 Bei der Fahrzeug- und Warenüberwachung setzen wir modernste Hilfsmittel, wie die satellitengestützte Positionsbestimmung
 (GPS-Technik) ein. Damit können wir Bewegungen von Fahrzeugen bis auf wenige Meter genau verfolgen und aufzeichnen. Das
@@ -182,8 +178,6 @@ Heimlich angefertigte Videoaufnahmen sind ein Eingriff in das durch Artikel 2 Ab
 Durch dieses Recht werden Arbeitnehmer vor einer lückenlosen technischen Überwachung am Arbeitsplatz geschützt.
 <br/>In jedem Einzelfall muss deshalb das allgemeine Persönlichkeitsrecht des Arbeitnehmers gegen das wirtschaftliche Interesse des
 Arbeitgebers sorgfältig abgewogen werden.</div>
-                </div>
-                <div class="col-lg-1 col-md-1 col-sm-12">
                 </div>
               </div>
             </div>
