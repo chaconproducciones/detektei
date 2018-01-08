@@ -27,7 +27,7 @@
     <div class="row">
         <!-- Init Header -->
         <?php
-            @include("directorio/commons/header.php");
+            @include("header.php");
          ?>
         <!-- End Header -->
         <!-- Init Web -->
@@ -68,7 +68,7 @@
               </div>
               <div>
                 <div class="wine-color-bg">
-                  <div class="tittle-slider-caption">Privat</div>
+                  <div class="tittle-slider-caption" style="font-size:28px;">Privat</div>
                   <div class="text-slider-caption">
                     Partnerschaftskon ikte<br/>
                     <span style="color:#fff;">Personenüberwachung ►</span><br/>
@@ -80,7 +80,12 @@
               </div>
               <div>
                 <div class="blue-color-bg">
-                  <div class="tittle-slider-caption">Wirtschaft ▶</div>
+                  <div class="tittle-slider-caption" style="font-size:28px;">Wirtschaft ▶</div>
+                </div>
+              </div>
+              <div>
+                <div class="bg-dark-gray">
+                  <div class="tittle-slider-caption" style="font-size:24px;color:#000;">Videoüberwachung ▶</div>
                 </div>
               </div>
             </div>
@@ -117,22 +122,68 @@
           <div class="row row-content">
             <div class="col-lg-4 col-md-4 col-sm-12">
               <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                  <div class="title-box"><b>offene Videoüberwachung</b></div><br/>
-                  <div class="text-box"><b>im Innen- und Außenbereich</b> </div>
-                  <div class="text-box">Straftaten schon im Vorfeld zu verhindern. Das ist unser Ziel bei der offenen Videoüberwachung. Die für jedermann sichtbar installierten Kameras haben eine abschreckende Wirkung. Dadurch erhöhen Sie Ihre eigene Sicherheit und schützen
-                    wirkungsvoll Ihr Eigentum.</div>
+                <div class="col-lg-12 col-md-12 col-sm-12 wine-color-bg" style="margin:8px; color:#fff;">
+                    <p class="titulos-pages">Personenüberwachung
+liefert Beweise</p>
+Personen, Räume und privates Eigentum beobachten
+und überwachen – das ist das Kerngeschäft unserer
+Detektei.
+Unsere Mitarbeiter verfügen über
+jahrelange Erfahrung.
+Mit regelmäßigen Fortbildungen halten wir unser Know
+how auf dem neuesten Stand der Technik.
+Erfolgreiche Personenüberwachung ist diskret, unauffällig
+und erfordert speziell geschulte Detektive. Wir
+ermitteln für Sie unauffällig aus neutralen Einsatzfahrzeugen
+heraus.
+Wenn erforderlich, wechseln sich mehrere Mitarbeiter
+ab. Das minimiert die Gefahr,entdeckt zu werden.
+Verdeckte Observationen geben Ihnen sowohl im geschäftlichen
+als auch im privaten Bereich Gewissheit.
+Sie erhalten detaillierte Einblicke in den Tagesablauf
+der beobachteten Person. Wir sichern für Sie gerichtsverwertbare
+Beweise. Selbstverständlich stehen Ihnen
+und Ihren Anwälten unsere Mitarbeiter, die die Personenüberwachung
+durchführen, auch als Zeugen vor
+Gericht zur Verfügung.
                 </div>
               </div>
             </div>
             <div class="col-lg-8 col-md-8 col-sm-12">
               <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                  <div class="title-box"><b>verdeckte Videoüberwachung</b></div><br/>
-                  <div class="text-box"><b>im gewerblichen und privaten Bereich</b> </div>
-                  <div class="text-box">Beim Einsatz verdeckter Videokameras sind strenge rechtliche Regeln einzuhalten, sonst machen Sie sich selbst strafbar. Heimlich angefertigte Videoaufnahmen sind ein Eingriff in das durch Artikel 2 Absatz 1 Grundgesetz geschützte allgemeine
-                    Persönlichkeitsrecht. Durch dieses Recht werden Arbeitnehmer vor einer lückenlosen technischen Überwachung am Arbeitsplatz geschützt.<br> In jedem Einzelfall muss deshalb das allgemeine Persönlichkeitsrecht des Arbeitnehmers gegen
-                    das wirtschaftliche Interesse des Arbeitgebers sorgfältig abgewogen werden.</div>
+                <div class="col-lg-1 col-md-1 col-sm-12">
+                </div>
+                <div class="col-lg-10 col-md-10 col-sm-12" style="margin-left:-10px;margin-right:-10px;">
+                  <p  class="titulos-pages">Überwachung mit GPS</p>
+Bei der Fahrzeug- und Warenüberwachung setzen wir modernste Hilfsmittel, wie die satellitengestützte Positionsbestimmung
+(GPS-Technik) ein. Damit können wir Bewegungen von Fahrzeugen bis auf wenige Meter genau verfolgen und aufzeichnen. Das
+hat für Sie den großen Vorteil, dass Sie so den Aufenthaltsort der gesuchten Person erfahren.
+
+
+<p  class="titulos-pages">Überwachung mit Videotechnik</p>
+Miniaturkamera an der Wand montiert Zur Überwachung kann auch Videotechnik eingesetzt werden. Aus Standfahrzeugen heraus
+oder mit fest installierten Kameras überwachen wir Grundstücke, Wohnungen, Firmen oder PKWs. Mit Miniaturkameras führen
+wir verdeckte Videobeobachtungen durch. Unsere Geräte sind so unauffällig, dass sie kaum bemerkt werden können. Dadurch
+erhalten Sie unwiderlegbare Beweise.<br/>
+Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie Ihr Firmengelände, Lagerräume oder Ihr Wohnhaus
+schützen, stellen wir speziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent
+auch in allen Fragen, die Sie zum Kauf einer Überwachungsanlage haben.
+<br/>
+Bitte beachten Sie hierzu die rechtlichen Voraussetzungen, die Sie auf unserer Seite Videoüberwachungen nachlesen können
+<div style="background-color:#ECECEC;">
+<p  class="titulos-pages" >offene Videoüberwachung im Innen- und Außenbereich</p>
+Straftaten schon im Vorfeld zu verhindern. Das ist unser Ziel bei der offenen Videoüberwachung. Die für jedermann sichtbar installierten
+Kameras haben eine abschreckende Wirkung. Dadurch erhöhen Sie Ihre eigene Sicherheit und schützen wirkungsvoll Ihr
+Eigentum.</div>
+
+<div style="background-color:#ECECEC;"><p  class="titulos-pages">verdeckte Videoüberwachung im Innen- und Außenbereich</p>
+Beim Einsatz verdeckter Videokameras sind strenge rechtliche Regeln einzuhalten, sonst machen Sie sich selbst strafbar.
+Heimlich angefertigte Videoaufnahmen sind ein Eingriff in das durch Artikel 2 Absatz 1 Grundgesetz geschützte allgemeine Persönlichkeitsrecht.
+Durch dieses Recht werden Arbeitnehmer vor einer lückenlosen technischen Überwachung am Arbeitsplatz geschützt.
+<br/>In jedem Einzelfall muss deshalb das allgemeine Persönlichkeitsrecht des Arbeitnehmers gegen das wirtschaftliche Interesse des
+Arbeitgebers sorgfältig abgewogen werden.</div>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-12">
                 </div>
               </div>
             </div>
@@ -197,7 +248,7 @@
     <!-- Init Footer -->
     <div class="row wine-color-bg">
       <?php
-              @include("directorio/commons/footer.php");
+              @include("footer.php");
            ?>
     </div>
     <!-- End Footer -->
