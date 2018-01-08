@@ -197,7 +197,8 @@ Arbeitgebers sorgfältig abgewogen werden.</div>
         Seit über 25 Jahren europaweit tätig.
         <br/> Mitglied im Berufsverband BID.
       </div>
-    </div><br/>
+      <br/>
+    </div>
     <div id="mobile">
       <!-- Init Content Mobile -->
       <div class="row wine-color-bg" style="padding: 10px;">

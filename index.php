@@ -229,7 +229,8 @@
         Seit über 25 Jahren europaweit tätig.
         <br/> Mitglied im Berufsverband BID.
       </div>
-    </div><br/>
+      <br/>
+    </div>
     <div id="mobile">
       <!-- Init Content Mobile -->
       <div class="row blue-color-bg tittle-mobile-sidebar">
