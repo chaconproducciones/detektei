@@ -58,7 +58,7 @@
                           <p class="text-sidebar">Zeitfenster für Rückruf</p>
                       </div>
                       <div class="col-lg-5 col-md-5 col-sm-12">
-                          <div id="circulo">Senden</div>
+                      <a href="#"><div id="circulo">Senden</div></a>
                       </div>
                   </div>
                 </form>
