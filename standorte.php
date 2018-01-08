@@ -41,7 +41,7 @@
             Seit über 25 Jahren europaweit tätig.
             <br/> Mitglied im Berufsverband BID.
           </div>
-          <div class="row" style="height:80%;" >
+          <div class="row" style="height:70%;" >
             <div class="content-sidebar">
               <div class="sidebar">
                 <form>
@@ -115,7 +115,7 @@
           </div>
           <div class="row row-content">
             <div class="col-lg-4 col-md-4 col-sm-12">
-              <div class="row" style="height:100%;vertical-align: middle;">
+              <div class="row" style="height:100%;padding:0;vertical-align: middle;">
                 <div class="col-lg-12 col-md-12 col-sm-12 bg-dark-gray" style="margin:8px; color:black;">
                     <p class="titulos-pages">Unsere Standorte</p>
                     <div style="font-size:14px;text-align: justify;"><p>Die Detektei Larsen macht darauf aufmerksam, 
@@ -137,24 +137,75 @@ weltweit Einsätze durchzuführen.</p>
             </div>
             <div class="col-lg-8 col-md-8< col-sm-12">
               <div class="row"  style="height:100%;">
-                <div class="col-lg-12 col-md-12 col-sm-12" style="padding-left:30px;padding-right:30px;">
-<div style="background-color:#ECECEC;">
-<div  style="float:left; height:220px;">
-  <img src="img/BW.png" />
-</div ><div  style="float:right;"><p  class="titulos-pages" >Standorte Baden-Württemberg</p>
-<p style="font-size:14px;text-align: justify;">Backnang, Balingen, Calw , Donaueschingen, Esslingen, Ettlingen, Filderstadt, Freudenstadt, Göppingen, Heilbronn,
-Konstanz, Kirchheim unter Teck, Leonberg, Ludwigsburg, Mannheim, Pforzheim Nordschwarzwald, Reutlingen, Rottweil,
-Remseck am Neckar, Schwäbisch-Gmünd, Stuttgart, Sulz am Neckar, Ulm, Villingen Schwenningen, Waiblingen,
-Waldshut-Tiengen</p>
+                <div class="col-lg-12 col-md-12 col-sm-12" style="padding-left:30px;padding-right:18px;">
+                  <div style="background-color:#ECECEC;">
+                    <div  style="float:left; height:280px;">
+                        <img src="img/BW.png" />
+                    </div >
+                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Baden-Württemberg</p>
+                      <p style="font-size:14px;text-align: justify;">Backnang, Balingen, Calw , Donaueschingen, Esslingen, Ettlingen, Filderstadt, Freudenstadt, Göppingen, Heilbronn,
+                      Konstanz, Kirchheim unter Teck, Leonberg, Ludwigsburg, Mannheim, Pforzheim Nordschwarzwald, Reutlingen, Rottweil,
+                      Remseck am Neckar, Schwäbisch-Gmünd, Stuttgart, Sulz am Neckar, Ulm, Villingen Schwenningen, Waiblingen,
+                      Waldshut-Tiengen</p>
 
-<div style="background-color:#ECECEC;"><p  class="titulos-pages">Regionale Einsatzorte Baden-Württemberg</p>
-<p style="font-size:14px;text-align: justify;">Albstadt, Baden-Baden, Bietigheim-Bissingen, Bruchsal, Bad Liebenzell, Herrenberg Hechingen, 
-  Kornwestheim, Messkirch, Metzingen, Mössingen, Nürtingen, Oberndorf a.N., Ravensburg, Schorndorf, Sindelfingen, St. Georgen im Schwarzwald, 
-  Singen, Schramberg, Tübingen, Tuttlingen</p></div>
+                      <p  class="titulos-pages">Regionale Einsatzorte Baden-Württemberg</p>
+                      <p style="font-size:14px;text-align: justify;">Albstadt, Baden-Baden, Bietigheim-Bissingen, Bruchsal, Bad Liebenzell, Herrenberg Hechingen, 
+                        Kornwestheim, Messkirch, Metzingen, Mössingen, Nürtingen, Oberndorf a.N., Ravensburg, Schorndorf, Sindelfingen, St. Georgen im Schwarzwald, 
+                        Singen, Schramberg, Tübingen, Tuttlingen</p>
+                    </div>
                 </div>
+
+                <div style="background-color:#ECECEC;">
+                    <div  style="float:left; height:90px;">
+                        <img src="img/bayern.png" />
+                    </div >
+                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Bayern</p>
+                      <p style="font-size:14px;text-align: justify;">Augsburg, Aschaffenburg, Bayreuth, Dachau, Donauwörth, 
+                        Fürth, Hirschau, Ingolstadt, Markt-Rettenbach, München, Neu- Ulm, Nürnberg, Nördlingen, Passau, 
+                        Schweinfurt, Weilheim in Oberbayern, Würzburg</p>
+
+                    </div>
+
+
+
               </div>
+
+              <div style="background-color:#ECECEC;">
+                    <div  style="float:left; height:80px;">
+                        <img src="img/hessen.png" />
+                    </div >
+                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Hessen</p>
+                      <p style="font-size:14px;text-align: justify;">Darmstadt, Frankfurt am Main, Gießen, Kassel, Wiesbaden</p>
+
+                    </div>
+
+
+
+              </div>
+
+
+              <div style="background-color:#ECECEC;">
+                    <div  style="float:left; height:80px;">
+                        <img src="img/pfalz.png" />
+                    </div >
+                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Pfalz / Saarland</p>
+                      <p style="font-size:14px;text-align: justify;">Friedrichsthal, Koblenz, Mainz, Saarbrücken, Speyer, Trier, Völklingen</p>
+
+                    </div>
+
+
+
+              </div>
+
             </div>
-          </div>
+
+          
+                  
+              
+
+
+
+          
           <!-- End Content Web -->
         </div>
     </div>
