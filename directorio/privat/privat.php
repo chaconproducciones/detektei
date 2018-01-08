@@ -26,7 +26,7 @@
         <div class="row">
           <!-- Init Header -->
           <?php
-              @include("../commons/header.php");
+              @include("../../header.php");
            ?>
           <!-- End Header -->
           <!-- Init Web -->
@@ -61,7 +61,7 @@
                             <p class="text-sidebar">Zeitfenster für Rückruf</p>
                           </td>
                           <td>
-                            <div id="circulo">Senden</div>
+                          <a href="#"><div id="circulo">Senden</div></a>
                           </td>
                           </div>
                           </tr>
@@ -77,11 +77,14 @@
                 </div>
                 
               
-                <div class="menu-privat"></div>
+                <div class="menu-privat">
+                  Privat<br/>
+                  
+                </div>
                      
-                     <div class="boton-wirscraf"></div>
+                     <div class="boton-wirscraf">Wirtschaft ▶</div>
                     
-                     <div class="videogr"></div>        
+                     <div class="videogr">Videoüberwachung ▶</div>        
                           
                 
             </div>
@@ -173,19 +176,19 @@ Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie
 schützen, stellen wir speziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent
 auch in allen Fragen, die Sie zum Kauf einer Überwachungsanlage haben.
 <br/>
-<p>Bitte beachten Sie hierzu die rechtlichen Voraussetzungen, die Sie auf unserer Seite Videoüberwachungen nachlesen können</p>
-
-<p  class="titulos-pages">offene Videoüberwachung im Innen- und Außenbereich</p>
+Bitte beachten Sie hierzu die rechtlichen Voraussetzungen, die Sie auf unserer Seite Videoüberwachungen nachlesen können
+<div style="background-color:#ECECEC;">
+<p  class="titulos-pages" >offene Videoüberwachung im Innen- und Außenbereich</p>
 Straftaten schon im Vorfeld zu verhindern. Das ist unser Ziel bei der offenen Videoüberwachung. Die für jedermann sichtbar installierten
 Kameras haben eine abschreckende Wirkung. Dadurch erhöhen Sie Ihre eigene Sicherheit und schützen wirkungsvoll Ihr
-Eigentum.
+Eigentum.</div>
 
-<p  class="titulos-pages">verdeckte Videoüberwachung im Innen- und Außenbereich</p>
+<div style="background-color:#ECECEC;"><p  class="titulos-pages">verdeckte Videoüberwachung im Innen- und Außenbereich</p>
 Beim Einsatz verdeckter Videokameras sind strenge rechtliche Regeln einzuhalten, sonst machen Sie sich selbst strafbar.
 Heimlich angefertigte Videoaufnahmen sind ein Eingriff in das durch Artikel 2 Absatz 1 Grundgesetz geschützte allgemeine Persönlichkeitsrecht.
 Durch dieses Recht werden Arbeitnehmer vor einer lückenlosen technischen Überwachung am Arbeitsplatz geschützt.
 <br/>In jedem Einzelfall muss deshalb das allgemeine Persönlichkeitsrecht des Arbeitnehmers gegen das wirtschaftliche Interesse des
-Arbeitgebers sorgfältig abgewogen werden.
+Arbeitgebers sorgfältig abgewogen werden.</div> 
 
 
 
@@ -220,7 +223,7 @@ Arbeitgebers sorgfältig abgewogen werden.
           <!-- Init Footer -->
           <div class="row wine-color-bg">
             <?php
-                @include("../commons/footer.php");
+                @include("../../footer.php");
              ?>
           </div>
           <!-- End Footer -->
