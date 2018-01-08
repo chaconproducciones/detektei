@@ -41,7 +41,7 @@
             Seit über 25 Jahren europaweit tätig.
             <br/> Mitglied im Berufsverband BID.
           </div>
-          <div class="row">
+          <div class="row" style="height:80%;" >
             <div class="content-sidebar">
               <div class="sidebar">
                 <form>
@@ -119,16 +119,16 @@
           </div>
           <div class="row row-content">
             <div class="col-lg-4 col-md-4 col-sm-12">
-              <div class="row">
+              <div class="row" style="height:100%;vertical-align: middle;">
                 <div class="col-lg-12 col-md-12 col-sm-12 wine-color-bg" style="margin:8px; color:#fff;">
                     <p class="titulos-pages">Personenüberwachung
 liefert Beweise</p>
-Personen, Räume und privates Eigentum beobachten
+<p style="font-size:14px;text-align: justify;">Personen, Räume und privates Eigentum beobachten
 und überwachen – das ist das Kerngeschäft unserer
-Detektei.
-Unsere Mitarbeiter verfügen über
-jahrelange Erfahrung.
-Mit regelmäßigen Fortbildungen halten wir unser Know
+Detektei.</p>
+<p class="titulos-pages">Unsere Mitarbeiter verfügen über
+jahrelange Erfahrung.</p>
+<div style="font-size:14px;text-align: justify;">Mit regelmäßigen Fortbildungen halten wir unser Know
 how auf dem neuesten Stand der Technik.
 Erfolgreiche Personenüberwachung ist diskret, unauffällig
 und erfordert speziell geschulte Detektive. Wir
@@ -143,21 +143,21 @@ der beobachteten Person. Wir sichern für Sie gerichtsverwertbare
 Beweise. Selbstverständlich stehen Ihnen
 und Ihren Anwälten unsere Mitarbeiter, die die Personenüberwachung
 durchführen, auch als Zeugen vor
-Gericht zur Verfügung.
+Gericht zur Verfügung.</div>
                 </div>
               </div>
             </div>
-            <div class="col-lg-8 col-md-8 col-sm-12">
-              <div class="row">
+            <div class="col-lg-8 col-md-8< col-sm-12">
+              <div class="row"  style="height:100%;">
                 <div class="col-lg-12 col-md-12 col-sm-12" style="padding-left:30px;padding-right:30px;">
                   <p  class="titulos-pages">Überwachung mit GPS</p>
-Bei der Fahrzeug- und Warenüberwachung setzen wir modernste Hilfsmittel, wie die satellitengestützte Positionsbestimmung
+<p style="font-size:14px;text-align: justify;">Bei der Fahrzeug- und Warenüberwachung setzen wir modernste Hilfsmittel, wie die satellitengestützte Positionsbestimmung
 (GPS-Technik) ein. Damit können wir Bewegungen von Fahrzeugen bis auf wenige Meter genau verfolgen und aufzeichnen. Das
-hat für Sie den großen Vorteil, dass Sie so den Aufenthaltsort der gesuchten Person erfahren.
+hat für Sie den großen Vorteil, dass Sie so den Aufenthaltsort der gesuchten Person erfahren.</p>
 
 
 <p  class="titulos-pages">Überwachung mit Videotechnik</p>
-Miniaturkamera an der Wand montiert Zur Überwachung kann auch Videotechnik eingesetzt werden. Aus Standfahrzeugen heraus
+<p style="font-size:14px;text-align: justify;">Miniaturkamera an der Wand montiert Zur Überwachung kann auch Videotechnik eingesetzt werden. Aus Standfahrzeugen heraus
 oder mit fest installierten Kameras überwachen wir Grundstücke, Wohnungen, Firmen oder PKWs. Mit Miniaturkameras führen
 wir verdeckte Videobeobachtungen durch. Unsere Geräte sind so unauffällig, dass sie kaum bemerkt werden können. Dadurch
 erhalten Sie unwiderlegbare Beweise.<br/>
@@ -165,19 +165,19 @@ Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie
 schützen, stellen wir speziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent
 auch in allen Fragen, die Sie zum Kauf einer Überwachungsanlage haben.
 <br/>
-Bitte beachten Sie hierzu die rechtlichen Voraussetzungen, die Sie auf unserer Seite Videoüberwachungen nachlesen können
+Bitte beachten Sie hierzu die rechtlichen Voraussetzungen, die Sie auf unserer Seite Videoüberwachungen nachlesen können</p>
 <div style="background-color:#ECECEC;">
 <p  class="titulos-pages" >offene Videoüberwachung im Innen- und Außenbereich</p>
-Straftaten schon im Vorfeld zu verhindern. Das ist unser Ziel bei der offenen Videoüberwachung. Die für jedermann sichtbar installierten
+<p style="font-size:14px;text-align: justify;">Straftaten schon im Vorfeld zu verhindern. Das ist unser Ziel bei der offenen Videoüberwachung. Die für jedermann sichtbar installierten
 Kameras haben eine abschreckende Wirkung. Dadurch erhöhen Sie Ihre eigene Sicherheit und schützen wirkungsvoll Ihr
-Eigentum.</div>
+Eigentum.</p></div>
 
 <div style="background-color:#ECECEC;"><p  class="titulos-pages">verdeckte Videoüberwachung im Innen- und Außenbereich</p>
-Beim Einsatz verdeckter Videokameras sind strenge rechtliche Regeln einzuhalten, sonst machen Sie sich selbst strafbar.
+<p style="font-size:14px;text-align: justify;">Beim Einsatz verdeckter Videokameras sind strenge rechtliche Regeln einzuhalten, sonst machen Sie sich selbst strafbar.
 Heimlich angefertigte Videoaufnahmen sind ein Eingriff in das durch Artikel 2 Absatz 1 Grundgesetz geschützte allgemeine Persönlichkeitsrecht.
 Durch dieses Recht werden Arbeitnehmer vor einer lückenlosen technischen Überwachung am Arbeitsplatz geschützt.
 <br/>In jedem Einzelfall muss deshalb das allgemeine Persönlichkeitsrecht des Arbeitnehmers gegen das wirtschaftliche Interesse des
-Arbeitgebers sorgfältig abgewogen werden.</div>
+Arbeitgebers sorgfältig abgewogen werden.</p></div>
                 </div>
               </div>
             </div>
