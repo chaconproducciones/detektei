@@ -100,6 +100,7 @@
         font-size: 48px;
         color: #fff;
         text-align: left;
+        margin: 5px;
       }
 
       .text-slider-caption {
@@ -108,6 +109,7 @@
         color: #cbcdcc;
         font-weight: 700;
         text-align: left;
+        margin: 5px;
       }
 
       .tittle-box {
@@ -156,7 +158,7 @@
         width: 100%;
         height: 100%;
       }
-    
+
 
       .sidebar {
         background-color: #0B3D60;
@@ -391,7 +393,7 @@
         width: 100%;
         height: 250px;
         float: left;
-        margin-top: 40px;  
+        margin-top: 40px;
 
       }
       .boton-wirscraf{
@@ -399,7 +401,7 @@
         width: 100%;
         height: 55px;
         float: left;
-        margin-top: 10px;  
+        margin-top: 10px;
 
       }
 
@@ -408,6 +410,6 @@
         width: 100%;
         height: 55px;
         float: left;
-        margin-top: 10px;  
+        margin-top: 10px;
 
       }
