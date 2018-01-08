@@ -197,44 +197,43 @@ Arbeitgebers sorgfältig abgewogen werden.</p></div>
         Seit über 25 Jahren europaweit tätig.
         <br/> Mitglied im Berufsverband BID.
       </div>
+      <br/>
     </div>
     <div id="mobile">
       <!-- Init Content Mobile -->
-      <div class="row wine-color-bg tittle-mobile-sidebar">
-          Wirtschaft ▶
+      <div class="row wine-color-bg" style="padding: 10px;">
+        <div class="tittle-mobile" style="color:#fff;">Personenüberwachung liefert Beweise</div>
+        <div class="text-mobile" style="color:#fff;">
+          Personen, Räume und privates Eigentum beobachten und überwachen – das ist das Kerngeschäft unserer Detektei.
+        </div>
+        <div class="tittle-mobile" style="color:#fff;">Unsere Mitarbeiter verfügen über jahrelange Erfahrung.</div>
+        <div class="text-mobile" style="color:#fff;">
+          Mit regelmäßigen Fortbildungen halten wir unser Know how auf dem neuesten Stand der Technik.
+          Erfolgreiche Personenüberwachung ist diskret, unauf- fällig und erfordert speziell geschulte Detektive. Wir ermitteln für Sie unauffällig aus neutralen Einsatzfahr- zeugen heraus.
+          Wenn erforderlich, wechseln sich mehrere Mitarbei- ter ab. Das minimiert die Gefahr,entdeckt zu werden. Verdeckte Observationen geben Ihnen sowohl im ge- schäftlichen als auch im privaten Bereich Gewissheit. Sie erhalten detaillierte Einblicke in den Tagesablauf der beobachteten Person. Wir sichern für Sie gerichts- verwertbare Beweise. Selbstverständlich stehen Ihnen und Ihren Anwälten unsere Mitarbeiter, die die Perso- nenüberwachung durchführen, auch als Zeugen vor Gericht zur Verfügung.
+        </div>
+      </div>
+      <div class="row" style="padding: 10px;">
+        <div class="tittle-mobile">Überwachung mit GPS</div>
+        <div class="text-mobile">
+          Bei der Fahrzeug- und Warenüberwachung setzen wir modernste Hilfsmittel, wie die satellitengestützte Positionsbestimmung (GPS-Technik) ein. Damit können wir Bewegungen von Fahrzeugen bis auf wenige Meter genau verfolgen und auf- zeichnen. Das hat für Sie den großen Vorteil, dass Sie so den Aufenthaltsort der gesuchten Person erfahren.
+        </div>
+      </div>
+      <div class="row" style="padding: 10px;">
+        <div class="tittle-mobile">Überwachung mit Videotechnik</div>
+        <div class="text-mobile">
+          Miniaturkamera an der Wand montiert Zur Überwachung kann auch Videotech- nik eingesetzt werden. Aus Standfahrzeugen heraus oder mit fest installierten Kameras überwachen wir Grundstücke, Wohnungen, Firmen oder PKWs. Mit Mi- niaturkameras führen wir verdeckte Videobeobachtungen durch. Unsere Geräte sind so unauffällig, dass sie kaum bemerkt werden können. Dadurch erhalten Sie unwiderlegbare Beweise.
+          Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie Ihr Firmengelände, Lagerräume oder Ihr Wohnhaus schützen, stellen wir spe- ziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent auch in allen Fragen, die Sie zum Kauf einer Überwachungsanla- ge haben.
+        </div>
       </div>
       <div class="row blue-color-bg tittle-mobile-sidebar">
+          Wirtschaft ▶
+      </div>
+      <div class="row wine-color-bg tittle-mobile-sidebar">
         Privat ▶
       </div>
       <div class="row bg-dark-gray tittle-black-sidebar">
         Videoüberwachung ▶
-      </div>
-      <div class="row">
-        <div class="tittle-mobile">Gewissheit in allen Fällen</div>
-        <div class="text-mobile">
-          Das ist unser Anspruch an uns selbst zu Ihrem Vorteil. Denn unser wichtigstes Ziel ist es, Sie - unsere Kunden - mit unseren detektivi- schen Leistungen rundum zufrieden zu stellen.
-          Wir nehmen uns Ihren Sorgen an: individuell, seriös und vertraulich
-          Jeden Kunden betreuen wir als seriöse Detektei ganz individuell. Deshalb steht an erster Stelle ein ausführliches, kostenloses Bera- tungsgespräch. Gemeinsam besprechen wir Ihre Situation und eine mögliche Vorgehensweise. Als seriöse und nach den Grundsätzen der Berufsordnung für Detektive arbeitende Detektei geben wir Ihnen einen detaillierten Überblick über die Kosten, bevor wir für Sie tätig werden. Selbstverständlich werden alle Daten, die wir von Ihnen er- halten oder die wir für Sie ermitteln, absolut vertraulich und nach den Regeln des Datenschutzes behandelt.
-        </div>
-      </div>
-      <div class="row bg-dark-gray">
-        <div class="tittle-mobile">Die Detektei Larsen: Verbände / Zertifkate</div>
-      </div>
-      <div class="row bg-dark-gray">
-        <div class="col-sm-6 col-xs-6">
-          <img class="banner" src='img/bid-Logo Zertifizierung_animiert.png' />
-        </div>
-        <div class="col-sm-6 col-xs-6">
-          <img class="banner" src='img/IKD_Logo.png' /> </td>
-        </div>
-      </div>
-      <div class="row bg-dark-gray">
-        <div class="col-sm-6 col-xs-6">
-          <img class="banner" src='img/WorldAssociationofDetectivesfooter.png' />
-        </div>
-        <div class="col-sm-6 col-xs-6">
-          <img class="banner" src='img/ODV_Logo-rgb.png' /></td>
-        </div>
       </div>
       <!-- End Content Mobile -->
     </div>

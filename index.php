@@ -73,7 +73,7 @@
                             <img class="banner" src='img/bid-Logo Zertifizierung_animiert.png' />
                           </div>
                           <div class="col-lg-6 col-md-6 col-sm-12">
-                            <img class="banner" src='img/IKD_Logo.png' /> </td>
+                            <img class="banner" src='img/IKD_Logo.png' />
                           </div>
                     </div>
                   </div>
@@ -83,7 +83,7 @@
                         <img class="banner" src='img/WorldAssociationofDetectivesfooter.png' />
                       </div>
                       <div class="col-lg-6 col-md-6 col-sm-12">
-                        <img class="banner" src='img/ODV_Logo-rgb.png' /></td>
+                        <img class="banner" src='img/ODV_Logo-rgb.png' />
                       </div>
                     </div>
                   </div>
@@ -229,19 +229,20 @@
         Seit über 25 Jahren europaweit tätig.
         <br/> Mitglied im Berufsverband BID.
       </div>
+      <br/>
     </div>
     <div id="mobile">
       <!-- Init Content Mobile -->
-      <div class="row wine-color-bg tittle-mobile-sidebar">
+      <div class="row blue-color-bg tittle-mobile-sidebar">
           Wirtschaft ▶
       </div>
-      <div class="row blue-color-bg tittle-mobile-sidebar">
+      <div class="row wine-color-bg tittle-mobile-sidebar">
         Privat ▶
       </div>
       <div class="row bg-dark-gray tittle-black-sidebar">
         Videoüberwachung ▶
       </div>
-      <div class="row">
+      <div class="row" style="padding: 10px;">
         <div class="tittle-mobile">Gewissheit in allen Fällen</div>
         <div class="text-mobile">
           Das ist unser Anspruch an uns selbst zu Ihrem Vorteil. Denn unser wichtigstes Ziel ist es, Sie - unsere Kunden - mit unseren detektivi- schen Leistungen rundum zufrieden zu stellen.
@@ -249,23 +250,27 @@
           Jeden Kunden betreuen wir als seriöse Detektei ganz individuell. Deshalb steht an erster Stelle ein ausführliches, kostenloses Bera- tungsgespräch. Gemeinsam besprechen wir Ihre Situation und eine mögliche Vorgehensweise. Als seriöse und nach den Grundsätzen der Berufsordnung für Detektive arbeitende Detektei geben wir Ihnen einen detaillierten Überblick über die Kosten, bevor wir für Sie tätig werden. Selbstverständlich werden alle Daten, die wir von Ihnen er- halten oder die wir für Sie ermitteln, absolut vertraulich und nach den Regeln des Datenschutzes behandelt.
         </div>
       </div>
-      <div class="row bg-dark-gray">
+      <div class="row bg-dark-gray" style="padding: 10px;">
         <div class="tittle-mobile">Die Detektei Larsen: Verbände / Zertifkate</div>
       </div>
       <div class="row bg-dark-gray">
-        <div class="col-sm-6 col-xs-6">
-          <img class="banner" src='img/bid-Logo Zertifizierung_animiert.png' />
-        </div>
-        <div class="col-sm-6 col-xs-6">
-          <img class="banner" src='img/IKD_Logo.png' /> </td>
+        <div class="col-sm-12">
+          <div class="row">
+            <div class="col-sm-6">
+              <img class="banner" src='img/bid-Logo Zertifizierung_animiert.png' />
+            </div>
+            <div class="col-sm-6">
+              <img class="banner" src='img/IKD_Logo.png' />
+            </div>
+          </div>
         </div>
       </div>
       <div class="row bg-dark-gray">
-        <div class="col-sm-6 col-xs-6">
+        <div class="col-sm-6">
           <img class="banner" src='img/WorldAssociationofDetectivesfooter.png' />
         </div>
-        <div class="col-sm-6 col-xs-6">
-          <img class="banner" src='img/ODV_Logo-rgb.png' /></td>
+        <div class="col-sm-6">
+          <img class="banner" src='img/ODV_Logo-rgb.png' />
         </div>
       </div>
       <!-- End Content Mobile -->
