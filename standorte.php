@@ -66,7 +66,7 @@
               <div>
                 &nbsp;
               </div>
-             
+
               <div style="padding-top:15px;">
                 <div class="blue-color-bg">
                   <div class="tittle-slider-caption" style="font-size:28px;">Wirtschaft ▶</div>
@@ -75,7 +75,7 @@
               <div style="padding-top:15px;">
               <div class="wine-color-bg">
                 <div class="tittle-slider-caption" style="font-size:28px;">Privat ▶</div>
-               </div> 
+               </div>
               </div>
               <div style="padding-top:15px;">
                 <div class="bg-dark-gray">
@@ -118,98 +118,84 @@
               <div class="row" style="height:100%;padding:0;vertical-align: middle;">
                 <div class="col-lg-12 col-md-12 col-sm-12 bg-dark-gray" style="margin:8px; color:black;">
                     <p class="titulos-pages">Unsere Standorte</p>
-                    <div style="font-size:14px;text-align: justify;"><p>Die Detektei Larsen macht darauf aufmerksam, 
-                      dass es sich bei den hier aufgeführten Standorte nicht um Niederlassungen handelt. 
-                      Mit Ausnahme von Stuttgart unterhalten wir aus Kostengründen an den genannten Städten keine Detektivbüros.</p>
-<p>
-Wir verfügen über eine große Anzahl von ortskundigen Einsatzkräften, 
--Ermittlern und Wirtschaftsdetektiven, welche von uns an unseren 
-Standorten eingesetzt werden. Unsere Detektive vor Ort werden dabei bei Bedarf 
-durch unser versiertes und flexibles Einsatzteam unterstützt. Dieses ist innerhalb 
-kürzester Vorlaufzeit für Sie auch an allen anderen aufgeführten regionalen Standorten tätig.</p>
-<p>
-Außerhalb unseres direkten Einzugsgebietes arbeiten wir auch mit uns bekannten Partnern vor Ort zusammen. 
-Die Detektei Larsen verfügt über ein hervorragendes, bundesweites Netzwerk und ist über die IKD in der Lage, 
-weltweit Einsätze durchzuführen.</p>
-</div>
+                    <div style="font-size:14px;text-align: justify;"><p>Die Detektei Larsen macht darauf aufmerksam,
+                        dass es sich bei den hier aufgeführten Standorte nicht um Niederlassungen handelt.
+                        Mit Ausnahme von Stuttgart unterhalten wir aus Kostengründen an den genannten Städten keine Detektivbüros.</p>
+                      <p>
+                      Wir verfügen über eine große Anzahl von ortskundigen Einsatzkräften,
+                      -Ermittlern und Wirtschaftsdetektiven, welche von uns an unseren
+                      Standorten eingesetzt werden. Unsere Detektive vor Ort werden dabei bei Bedarf
+                      durch unser versiertes und flexibles Einsatzteam unterstützt. Dieses ist innerhalb
+                      kürzester Vorlaufzeit für Sie auch an allen anderen aufgeführten regionalen Standorten tätig.</p>
+                      <p>
+                      Außerhalb unseres direkten Einzugsgebietes arbeiten wir auch mit uns bekannten Partnern vor Ort zusammen.
+                      Die Detektei Larsen verfügt über ein hervorragendes, bundesweites Netzwerk und ist über die IKD in der Lage,
+                      weltweit Einsätze durchzuführen.</p>
+                    </div>
                 </div>
               </div>
             </div>
             <div class="col-lg-8 col-md-8< col-sm-12">
-              <div class="row"  style="height:100%;">
-                <div class="col-lg-12 col-md-12 col-sm-12" style="padding-left:30px;padding-right:18px;">
-                  <div style="background-color:#ECECEC;">
-                    <div  style="float:left; height:280px;">
+              <div class="row" style="height:100%;">
+                <div class="col-lg-12 col-md-12 col-sm-12" style="padding-left:38px;padding-right:22px;">
+                  <div class="row" style="background-color:#ECECEC; margin-top:7px;">
+                    <div class="col-lg-2 col-md-2 col-sm-2">
                         <img src="img/BW.png" />
-                    </div >
-                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Baden-Württemberg</p>
-                      <p style="font-size:14px;text-align: justify;">Backnang, Balingen, Calw , Donaueschingen, Esslingen, Ettlingen, Filderstadt, Freudenstadt, Göppingen, Heilbronn,
-                      Konstanz, Kirchheim unter Teck, Leonberg, Ludwigsburg, Mannheim, Pforzheim Nordschwarzwald, Reutlingen, Rottweil,
-                      Remseck am Neckar, Schwäbisch-Gmünd, Stuttgart, Sulz am Neckar, Ulm, Villingen Schwenningen, Waiblingen,
-                      Waldshut-Tiengen</p>
+                    </div>
+                    <div class="col-lg-10 col-md-10 col-sm-10">
+                      <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Baden-Württemberg</p>
+                        <p style="font-size:14px;text-align: justify;">Backnang, Balingen, Calw , Donaueschingen, Esslingen, Ettlingen, Filderstadt, Freudenstadt, Göppingen, Heilbronn,
+                        Konstanz, Kirchheim unter Teck, Leonberg, Ludwigsburg, Mannheim, Pforzheim Nordschwarzwald, Reutlingen, Rottweil,
+                        Remseck am Neckar, Schwäbisch-Gmünd, Stuttgart, Sulz am Neckar, Ulm, Villingen Schwenningen, Waiblingen,
+                        Waldshut-Tiengen</p>
 
-                      <p  class="titulos-pages">Regionale Einsatzorte Baden-Württemberg</p>
-                      <p style="font-size:14px;text-align: justify;">Albstadt, Baden-Baden, Bietigheim-Bissingen, Bruchsal, Bad Liebenzell, Herrenberg Hechingen, 
-                        Kornwestheim, Messkirch, Metzingen, Mössingen, Nürtingen, Oberndorf a.N., Ravensburg, Schorndorf, Sindelfingen, St. Georgen im Schwarzwald, 
-                        Singen, Schramberg, Tübingen, Tuttlingen</p>
+                        <p  class="titulos-pages">Regionale Einsatzorte Baden-Württemberg</p>
+                        <p style="font-size:14px;text-align: justify;">Albstadt, Baden-Baden, Bietigheim-Bissingen, Bruchsal, Bad Liebenzell, Herrenberg Hechingen,
+                          Kornwestheim, Messkirch, Metzingen, Mössingen, Nürtingen, Oberndorf a.N., Ravensburg, Schorndorf, Sindelfingen, St. Georgen im Schwarzwald,
+                          Singen, Schramberg, Tübingen, Tuttlingen</p>
+                      </div>
                     </div>
                 </div>
-
-                <div style="background-color:#ECECEC;">
-                    <div  style="float:left; height:90px;">
+                <div class="row" style="background-color:#ECECEC; margin-top:7px;">
+                    <div class="col-lg-2 col-md-2 col-sm-2">
                         <img src="img/bayern.png" />
-                    </div >
-                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Bayern</p>
-                      <p style="font-size:14px;text-align: justify;">Augsburg, Aschaffenburg, Bayreuth, Dachau, Donauwörth, 
-                        Fürth, Hirschau, Ingolstadt, Markt-Rettenbach, München, Neu- Ulm, Nürnberg, Nördlingen, Passau, 
-                        Schweinfurt, Weilheim in Oberbayern, Würzburg</p>
-
                     </div>
-
-
-
-              </div>
-
-              <div style="background-color:#ECECEC;">
-                    <div  style="float:left; height:80px;">
-                        <img src="img/hessen.png" />
-                    </div >
-                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Hessen</p>
-                      <p style="font-size:14px;text-align: justify;">Darmstadt, Frankfurt am Main, Gießen, Kassel, Wiesbaden</p>
-
+                    <div class="col-lg-10 col-md-10 col-sm-10">
+                      <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Bayern</p>
+                        <p style="font-size:14px;text-align: justify;">Augsburg, Aschaffenburg, Bayreuth, Dachau, Donauwörth,
+                          Fürth, Hirschau, Ingolstadt, Markt-Rettenbach, München, Neu- Ulm, Nürnberg, Nördlingen, Passau,
+                          Schweinfurt, Weilheim in Oberbayern, Würzburg</p>
+                      </div>
                     </div>
-
-
-
               </div>
-
-
-              <div style="background-color:#ECECEC;">
-                    <div  style="float:left; height:80px;">
-                        <img src="img/pfalz.png" />
-                    </div >
-                    <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Pfalz / Saarland</p>
-                      <p style="font-size:14px;text-align: justify;">Friedrichsthal, Koblenz, Mainz, Saarbrücken, Speyer, Trier, Völklingen</p>
-
-                    </div>
-
-
-
+              <div class="row" style="background-color:#ECECEC; margin-top:7px;">
+                <div class="col-lg-2 col-md-2 col-sm-2">
+                    <img src="img/hessen.png" />
+                </div>
+                <div class="col-lg-10 col-md-10 col-sm-10">
+                  <div style="background-color:#ECECEC;"><p class="titulos-pages" >Standorte Hessen</p>
+                    <p style="font-size:14px;text-align: justify;">Darmstadt, Frankfurt am Main, Gießen, Kassel, Wiesbaden</p>
+                  </div>
+                </div>
               </div>
-
-            </div>
-
-          
-                  
-              
-
-
-
-          
+              <div class="row" style="background-color:#ECECEC; margin-top:7px;">
+                <div class="col-lg-2 col-md-2 col-sm-2">
+                    <img src="img/pfalz.png" />
+                </div>
+                <div class="col-lg-10 col-md-10 col-sm-10">
+                  <div style="background-color:#ECECEC;"><p  class="titulos-pages" >Standorte Pfalz / Saarland</p>
+                    <p style="font-size:14px;text-align: justify;">Friedrichsthal, Koblenz, Mainz, Saarbrücken, Speyer, Trier, Völklingen</p>
+                  </div>
+                </div>
+              </div>
           <!-- End Content Web -->
         </div>
+      </div>
     </div>
+  </div>
     <!-- End Web -->
+  </div>
+</div>
     <!-- Init Mobile -->
     <div id="mobile" class="col-sm-12">
       <figure class="detektei">
@@ -225,39 +211,78 @@ weltweit Einsätze durchzuführen.</p>
     </div>
     <div id="mobile">
       <!-- Init Content Mobile -->
-      <div class="row wine-color-bg" style="padding: 10px;">
-        <div class="tittle-mobile" style="color:#fff;">Personenüberwachung liefert Beweise</div>
-        <div class="text-mobile" style="color:#fff;">
-          Personen, Räume und privates Eigentum beobachten und überwachen – das ist das Kerngeschäft unserer Detektei.
-        </div>
-        <div class="tittle-mobile" style="color:#fff;">Unsere Mitarbeiter verfügen über jahrelange Erfahrung.</div>
-        <div class="text-mobile" style="color:#fff;">
-          Mit regelmäßigen Fortbildungen halten wir unser Know how auf dem neuesten Stand der Technik.
-          Erfolgreiche Personenüberwachung ist diskret, unauf- fällig und erfordert speziell geschulte Detektive. Wir ermitteln für Sie unauffällig aus neutralen Einsatzfahr- zeugen heraus.
-          Wenn erforderlich, wechseln sich mehrere Mitarbei- ter ab. Das minimiert die Gefahr,entdeckt zu werden. Verdeckte Observationen geben Ihnen sowohl im ge- schäftlichen als auch im privaten Bereich Gewissheit. Sie erhalten detaillierte Einblicke in den Tagesablauf der beobachteten Person. Wir sichern für Sie gerichts- verwertbare Beweise. Selbstverständlich stehen Ihnen und Ihren Anwälten unsere Mitarbeiter, die die Perso- nenüberwachung durchführen, auch als Zeugen vor Gericht zur Verfügung.
-        </div>
-      </div>
-      <div class="row" style="padding: 10px;">
-        <div class="tittle-mobile">Überwachung mit GPS</div>
+      <div class="row bg-dark-gray" style="padding: 10px;">
+        <div class="tittle-mobile">Unsere Standorte</div>
         <div class="text-mobile">
-          Bei der Fahrzeug- und Warenüberwachung setzen wir modernste Hilfsmittel, wie die satellitengestützte Positionsbestimmung (GPS-Technik) ein. Damit können wir Bewegungen von Fahrzeugen bis auf wenige Meter genau verfolgen und auf- zeichnen. Das hat für Sie den großen Vorteil, dass Sie so den Aufenthaltsort der gesuchten Person erfahren.
+          <p>Die Detektei Larsen macht darauf aufmerksam,
+              dass es sich bei den hier aufgeführten Standorte nicht um Niederlassungen handelt.
+              Mit Ausnahme von Stuttgart unterhalten wir aus Kostengründen an den genannten Städten keine Detektivbüros.</p>
+            <p>
+            Wir verfügen über eine große Anzahl von ortskundigen Einsatzkräften,
+            -Ermittlern und Wirtschaftsdetektiven, welche von uns an unseren
+            Standorten eingesetzt werden. Unsere Detektive vor Ort werden dabei bei Bedarf
+            durch unser versiertes und flexibles Einsatzteam unterstützt. Dieses ist innerhalb
+            kürzester Vorlaufzeit für Sie auch an allen anderen aufgeführten regionalen Standorten tätig.</p>
+            <p>
+            Außerhalb unseres direkten Einzugsgebietes arbeiten wir auch mit uns bekannten Partnern vor Ort zusammen.
+            Die Detektei Larsen verfügt über ein hervorragendes, bundesweites Netzwerk und ist über die IKD in der Lage,
+            weltweit Einsätze durchzuführen.</p>
         </div>
       </div>
-      <div class="row" style="padding: 10px;">
-        <div class="tittle-mobile">Überwachung mit Videotechnik</div>
-        <div class="text-mobile">
-          Miniaturkamera an der Wand montiert Zur Überwachung kann auch Videotech- nik eingesetzt werden. Aus Standfahrzeugen heraus oder mit fest installierten Kameras überwachen wir Grundstücke, Wohnungen, Firmen oder PKWs. Mit Mi- niaturkameras führen wir verdeckte Videobeobachtungen durch. Unsere Geräte sind so unauffällig, dass sie kaum bemerkt werden können. Dadurch erhalten Sie unwiderlegbare Beweise.
-          Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie Ihr Firmengelände, Lagerräume oder Ihr Wohnhaus schützen, stellen wir spe- ziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent auch in allen Fragen, die Sie zum Kauf einer Überwachungsanla- ge haben.
+      <div class="row bg-light-gray" style="margin-top: 7px;">
+        <div class="col-sm-2 col-md-2">
+            <img src="img/BW.png"/>
+        </div>
+        <div class="col-sm-10 col-md-10">
+          <div class="tittle-mobile">Standorte Baden-Württemberg</div>
+          <div class="text-mobile">
+            Backnang, Balingen, Calw , Donaueschingen, Esslingen, Ettlingen, Filderstadt, Freudenstadt, Göppingen, Heilbronn,
+            Konstanz, Kirchheim unter Teck, Leonberg, Ludwigsburg, Mannheim, Pforzheim Nordschwarzwald, Reutlingen, Rottweil,
+            Remseck am Neckar, Schwäbisch-Gmünd, Stuttgart, Sulz am Neckar, Ulm, Villingen Schwenningen, Waiblingen,
+            Waldshut-Tiengen
+          </div>
+          <div class="tittle-mobile">Regionale Einsatzorte Baden-Württemberg</div>
+          <div class="text-mobile">
+            Albstadt, Baden-Baden, Bietigheim-Bissingen, Bruchsal, Bad Liebenzell, Herrenberg Hechingen,
+            Kornwestheim, Messkirch, Metzingen, Mössingen, Nürtingen, Oberndorf a.N., Ravensburg, Schorndorf, Sindelfingen, St. Georgen im Schwarzwald,
+            Singen, Schramberg, Tübingen, Tuttlingen
+          </div>
         </div>
       </div>
-      <div class="row blue-color-bg tittle-mobile-sidebar">
-          Wirtschaft ▶
+      <div class="row bg-light-gray" style="margin-top: 7px;">
+        <div class="col-sm-2 col-md-2">
+            <img src="img/bayern.png" />
+        </div>
+        <div class="col-sm-10 col-md-10">
+          <div class="tittle-mobile">Standorte Bayern</div>
+          <div class="text-mobile">
+            Augsburg, Aschaffenburg, Bayreuth, Dachau, Donauwörth,
+            Fürth, Hirschau, Ingolstadt, Markt-Rettenbach, München, Neu- Ulm, Nürnberg, Nördlingen, Passau,
+            Schweinfurt, Weilheim in Oberbayern, Würzburg
+          </div>
+        </div>
       </div>
-      <div class="row wine-color-bg tittle-mobile-sidebar">
-        Privat ▶
+      <div class="row bg-light-gray" style="margin-top: 7px;">
+        <div class="col-sm-2 col-md-2">
+            <img src="img/hessen.png" />
+        </div>
+        <div class="col-sm-10 col-md-10">
+          <div class="tittle-mobile">Standorte Hessen</div>
+          <div class="text-mobile" style="float:left;">
+            Darmstadt, Frankfurt am Main, Gießen, Kassel, Wiesbaden
+          </div>
+        </div>
       </div>
-      <div class="row bg-dark-gray tittle-black-sidebar">
-        Videoüberwachung ▶
+      <div class="row bg-light-gray" style="margin-top: 7px; margin-bottom: 7px;">
+        <div class="col-sm-2 col-md-2">
+            <img src="img/pfalz.png" />
+        </div>
+        <div class="col-sm-10 col-md-10">
+          <div class="tittle-mobile">Standorte Pfalz / Saarland</div>
+          <div class="text-mobile">
+            Friedrichsthal, Koblenz, Mainz, Saarbrücken, Speyer, Trier, Völklingen
+          </div>
+        </div>
       </div>
       <!-- End Content Mobile -->
     </div>
