@@ -33,9 +33,9 @@
         <!-- Init Web -->
         <div id="web" class="col-lg-3 col-md-3 col-sm-12">
           <figure class="detektei">
-            <div class="container-detektei">
+            <a href="index.php"><div class="container-detektei">
               <img id='detektei' src='img/logo_neu_web.png' />
-            </div>
+            </div></a>
           </figure>
           <div class="alinear-derecha">
             Seit über 25 Jahren europaweit tätig.
@@ -78,12 +78,12 @@
               </div>
               <div style="padding-top:15px;">
                 <div class="blue-color-bg">
-                  <div class="tittle-slider-caption" style="font-size:28px;">Wirtschaft ▶</div>
+                  <a href="Wirtschaft.php"><div class="tittle-slider-caption" style="font-size:28px;">Wirtschaft ▶</div></a>
                 </div>
               </div>
               <div style="padding-top:15px;">
                 <div class="bg-dark-gray">
-                  <div class="tittle-slider-caption" style="font-size:24px;color:#000;">Videoüberwachung ▶</div>
+                <a href="videouberwachung.php"><div class="tittle-slider-caption" style="font-size:24px;color:#000;">Videoüberwachung ▶</div></a>
                 </div>
               </div>
             </div>
@@ -189,9 +189,9 @@ Arbeitgebers sorgfältig abgewogen werden.</p></div>
     <!-- Init Mobile -->
     <div id="mobile" class="col-sm-12">
       <figure class="detektei">
-        <div class="container-detektei">
+      <a href="index.php"><div class="container-detektei">
           <img id='detektei' src='img/logo_neu_web.png' />
-        </div>
+        </div></a>
       </figure>
       <div class="alinear-derecha">
         Seit über 25 Jahren europaweit tätig.
@@ -226,15 +226,15 @@ Arbeitgebers sorgfältig abgewogen werden.</p></div>
           Offen wird die Videotechnik von uns auch zur Abschreckung eingesetzt. Wollen Sie Ihr Firmengelände, Lagerräume oder Ihr Wohnhaus schützen, stellen wir spe- ziell auf Ihren Bedarf zugeschnittene Lösungen zur Verfügung. Gerne beraten wir Sie kompetent auch in allen Fragen, die Sie zum Kauf einer Überwachungsanla- ge haben.
         </div>
       </div>
-      <div class="row wine-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
+      <a href="privat.php"><div class="row wine-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
         Privat ▶
-      </div>
-      <div class="row blue-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
+      </div></a>
+      <a href="Wirtschaft.php"><div class="row blue-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
           Wirtschaft ▶
-      </div>
-      <div class="row bg-dark-gray tittle-black-sidebar" style="margin-bottom:7px;">
+      </div></a>
+      <a href="videouberwachung.php"><div class="row bg-dark-gray tittle-black-sidebar" style="margin-bottom:7px;">
         Videoüberwachung ▶
-      </div>
+      </div></a>
       <!-- End Content Mobile -->
     </div>
     <!-- End Mobile -->

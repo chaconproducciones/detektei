@@ -33,9 +33,9 @@
         <!-- Init Web -->
         <div id="web" class="col-lg-3 col-md-3 col-sm-12">
           <figure class="detektei">
-            <div class="container-detektei">
+            <a href="index.php"><div class="container-detektei">
               <img id='detektei' src='img/logo_neu_web.png' />
-            </div>
+            </div></a>
           </figure>
           <div class="alinear-derecha">
             Seit über 25 Jahren europaweit tätig.
@@ -171,9 +171,9 @@
     <!-- Init Mobile -->
     <div id="mobile" class="col-sm-12">
       <figure class="detektei">
-        <div class="container-detektei">
+        <a href="index.php"><div class="container-detektei">
           <img id='detektei' src='img/logo_neu_web.png' />
-        </div>
+        </div></a>
       </figure>
       <div class="alinear-derecha">
         Seit über 25 Jahren europaweit tätig.

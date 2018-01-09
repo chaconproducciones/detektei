@@ -33,7 +33,7 @@
         <!-- Init Web -->
         <div id="web" class="col-lg-3 col-md-3 col-sm-12">
           <figure class="detektei">
-            <div class="container-detektei">
+            <a href="index.php"><div class="container-detektei">
               <img id='detektei' src='img/logo_neu_web.png' />
             </div>
           </figure>
@@ -69,17 +69,17 @@
 
               <div style="padding-top:15px;">
                 <div class="blue-color-bg">
-                  <div class="tittle-slider-caption" style="font-size:28px;">Wirtschaft ▶</div>
+                  <a href="Wirtschaft.php"><div class="tittle-slider-caption" style="font-size:28px;">Wirtschaft ▶</div></a>
                 </div>
               </div>
               <div style="padding-top:15px;">
               <div class="wine-color-bg">
-                <div class="tittle-slider-caption" style="font-size:28px;">Privat ▶</div>
+              <a href="privat.php"><div class="tittle-slider-caption" style="font-size:28px;">Privat ▶</div></a>
                </div>
               </div>
               <div style="padding-top:15px;">
                 <div class="bg-dark-gray">
-                  <div class="tittle-slider-caption" style="font-size:24px;color:#000;">Videoüberwachung ▶</div>
+                  <a href="videouberwachung.php"><div class="tittle-slider-caption" style="font-size:24px;color:#000;">Videoüberwachung ▶</div></a>
                 </div>
               </div>
             </div>
@@ -199,9 +199,9 @@
     <!-- Init Mobile -->
     <div id="mobile" class="col-sm-12">
       <figure class="detektei">
-        <div class="container-detektei">
+        <a href="index.php"><div class="container-detektei">
           <img id='detektei' src='img/logo_neu_web.png' />
-        </div>
+        </div></a>
       </figure>
       <div class="alinear-derecha">
         Seit über 25 Jahren europaweit tätig.

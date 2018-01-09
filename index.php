@@ -107,7 +107,7 @@
                     <div class="carousel-caption">
                       <div class="row" style="margin-bottom:-39px;">
                         <div class="col-lg-6 col-md-6 col-sm-6 wine-color-bg">
-                          <div class="tittle-slider-caption">Wirtschaft</div>
+                          <a href="Wirtschaft.php"><div class="tittle-slider-caption">Wirtschaft</div></a>
                           <div class="text-slider-caption">
                             Mitarbeiterüberprüfungen ►</br/>
                             Diebstahl und Betrug ►</br/>
@@ -122,7 +122,7 @@
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 blue-color-bg">
-                          <div class="tittle-slider-caption">Privat</div>
+                        <a href="privat.php"><div class="tittle-slider-caption">Privat</div></a>
                           <div class="text-slider-caption">
                             Partnerschaftskon ikte ►</br/>
                             Personenüberwachung ►</br/>
@@ -140,7 +140,7 @@
                     <div class="carousel-caption">
                       <div class="row" style="margin-bottom:-37px;">
                         <div class="col-lg-6 col-md-6 col-sm-6 wine-color-bg">
-                          <div class="tittle-slider-caption">Wirtschaft</div>
+                        <a href="Wirtschaft.php"><div class="tittle-slider-caption">Wirtschaft</div></a>
                           <div class="text-slider-caption">
                             Mitarbeiterüberprüfungen ►</br/>
                             Diebstahl und Betrug ►</br/>
@@ -155,7 +155,7 @@
                           </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 blue-color-bg">
-                          <div class="tittle-slider-caption">Privat</div>
+                        <a href="privat.php"><div class="tittle-slider-caption">Privat</div></a>
                           <div class="text-slider-caption">
                             Partnerschaftskon ikte ►</br/>
                             Personenüberwachung ►</br/>
@@ -187,7 +187,7 @@
           </div>
           <div class="row row-content bg-light-gray">
             <div class="col-lg-6 col-md-6 col-sm-12">
-              <div class="row">
+              <div class="row" style="height:100%;">
                 <div class="col-lg-3 col-md-3 col-sm-12">
                   <img class="banner-slider" src='img/camera.png' />
                 </div>
@@ -221,9 +221,9 @@
     <!-- Init Mobile -->
     <div id="mobile" class="col-sm-12">
       <figure class="detektei">
-        <div class="container-detektei">
+      <a href="index.php"><div class="container-detektei">
           <img id='detektei' src='img/logo_neu_web.png' />
-        </div>
+        </div></a>
       </figure>
       <div class="alinear-derecha">
         Seit über 25 Jahren europaweit tätig.
@@ -233,15 +233,15 @@
     </div>
     <div id="mobile">
       <!-- Init Content Mobile -->
-      <div class="row blue-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
+      <a href="Wirtschaft.php"><div class="row blue-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
           Wirtschaft ▶
-      </div>
-      <div class="row wine-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
+      </div></a>
+      <a href="privat.php"><div class="row wine-color-bg tittle-mobile-sidebar" style="margin-bottom:7px;">
         Privat ▶
-      </div>
-      <div class="row bg-dark-gray tittle-black-sidebar" style="margin-bottom:7px;">
+      </div></a>
+      <a href="videouberwachung.php"><div class="row bg-dark-gray tittle-black-sidebar" style="margin-bottom:7px;">
         Videoüberwachung ▶
-      </div>
+      </div></a>
       <div class="row" style="padding: 10px;">
         <div class="tittle-mobile">Gewissheit in allen Fällen</div>
         <div class="text-mobile">
