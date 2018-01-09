@@ -2,7 +2,7 @@
 <div id="web" class="col-lg-3 col-md-3 col-sm-12 wine-color-bg center-block font-white icons-footer">
   <img src='img/Pikto_Home.png' width="auto" height="auto">
   <img src="img/Pikto_Kontakt.png" width="auto" height="auto">
-  <img src="img/Pikto_ Ort.png" width="auto" height="auto">
+  <img src="img/Pikto_Ort.png" width="auto" height="auto">
   <a href="standorte.php"><img src="img/Pikto_Info.png" width="auto" height="auto"></a>
 </div>
 <div id="web" class="col-lg-9 col-md-9 col-sm-12  wine-color-bg font-footer center-block">
